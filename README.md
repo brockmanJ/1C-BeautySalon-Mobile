@@ -1,9 +1,6 @@
 # Мобильное решение "1С:Салон Красоты" (Конфигурация 1С:Предприятие)
 
-Это решение является дополнением к 1C-BeautySalon-Solution 
-<a href="(https://github.com/brockmanJ/1C-BeautySalon-Solution">
-  <img src="https://img.shields.io/badge/Открыть_репозиторий-синий?style=social" alt="Открыть репозиторий">
-</a>
+Это решение является дополнением к [1C-BeautySalon-Solution](https://github.com/brockmanJ/1C-BeautySalon-Solution)
 
 В проекте были реализованы следующие задачи:
 - Обработка создания записей клиента
